@@ -1,8 +1,8 @@
 DELETE FROM `command` WHERE name='sb';
-INSERT INTO `command`(`name`, `security`, `help`) VALUES ('sb', 3, 'Syntax: .sb - type .sb to list subcommands.');
+INSERT INTO `command`(`name`, `security`, `help`) VALUES ('sb', 2, 'Syntax: .sb - type .sb to list subcommands.');
 
 DELETE FROM `command` WHERE name='sb additem';
-INSERT INTO `command`(`name`, `security`, `help`) VALUES ('sb additem', 3, 'Syntax: .sb additem <itemid> <count> - tries to add an enchanted item to targeted player.');
+INSERT INTO `command`(`name`, `security`, `help`) VALUES ('sb additem', 2, 'Syntax: .sb additem <itemid> <count> - tries to add an enchanted item to targeted player.');
 
 DROP TABLE IF EXISTS `statbooster_enchant_template`;
 CREATE TABLE IF NOT EXISTS `statbooster_enchant_template` (
