@@ -6,7 +6,6 @@ INSERT INTO `statbooster_enchant_scores` (`mod_type`, `mod_id`, `subclass`, `tan
 	(0, 15, 0, 3, 0, 0, 0, 'ITEM_MOD_BLOCK_RATING - ALL'),
 	(0, 12, 0, 3, 0, 0, 0, 'ITEM_MOD_DEFENSE_SKILL_RATING - ALL'),
 	(0, 13, 0, 3, 0, 0, 0, 'ITEM_MOD_DODGE_RATING - ALL'),
-	(0, 5, 0, 1, 0, 3, 2, 'ITEM_MOD_INTELLECT - ALL'),
 	(0, 5, 1, 0, 0, 1, 0, 'ITEM_MOD_INTELLECT - CLOTH'),
 	(0, 5, 2, 0, 0, 1, 1, 'ITEM_MOD_INTELLECT - LEATHER'),
 	(0, 5, 3, 1, 0, 1, 1, 'ITEM_MOD_INTELLECT - MAIL'),
@@ -20,7 +19,6 @@ INSERT INTO `statbooster_enchant_scores` (`mod_type`, `mod_id`, `subclass`, `tan
 	(0, 6, 0, 0, 0, 1, 0, 'ITEM_MOD_SPIRIT - ALL'),
 	(0, 4, 0, 1, 2, 0, 1, 'ITEM_MOD_STRENGTH - ALL'),
 	(1, 99, 0, 1, 2, 0, 1, 'SPELL_AURA_MOD_ATTACK_POWER - ALL'),
-	(1, 13, 0, 0, 0, 0, 1, 'SPELL_AURA_MOD_DAMAGE_DONE - ALL'),
-	(1, 135, 0, 0, 0, 0, 1, 'SPELL_AURA_MOD_HEALING_DONE - ALL'),
+	(1, 13, 0, 0, 0, 1, 0, 'SPELL_AURA_MOD_DAMAGE_DONE - ALL'),
+	(1, 135, 0, 0, 0, 1, 0, 'SPELL_AURA_MOD_HEALING_DONE - ALL'),
 	(1, 85, 0, 0, 0, 0, 1, 'SPELL_AURA_MOD_POWER_REGEN - ALL');
-	
