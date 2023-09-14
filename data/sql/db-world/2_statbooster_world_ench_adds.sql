@@ -44,7 +44,6 @@ INSERT INTO `statbooster_enchant_template` (`Id`, `iLvlMin`, `iLvlMax`, `RoleMas
 	(407, 120, 270, 8, 0, 0, 0, '+13 Spirit', 'SPELL - ALL - ALL'),
 	(409, 120, 270, 0, 0, 0, 0, '+13 Stamina', 'ALL - ALL - ALL'),
 	(410, 120, 270, 3, 0, 0, 0, '+13 Strength', 'TANK/PHYS - ALL - ALL'),
-	(3756, 250, 400, 7, 0, 0, 0, '+130 AttackPower', 'TANK/PHYS/HYBRID - ALL - ALL'),
 	(404, 130, 280, 7, 0, 0, 0, '+14 Agility', 'TANK/PHYS/HYBRID - ALL - ALL'),
 	(1588, 60, 210, 7, 0, 0, 0, '+14 AttackPower', 'TANK/PHYS/HYBRID - ALL - ALL'),
 	(195, 20, 170, 0, 0, 0, 0, '+14 CritRating', 'ALL - ALL - ALL'),
