@@ -195,7 +195,6 @@ INSERT INTO `statbooster_enchant_template` (`Id`, `iLvlMin`, `iLvlMax`, `RoleMas
 	(3260, 250, 325, 7, 16, 126, 0, '+240 Armor', 'TANK/PHYS/HYBRID - ARMOR - MANY'),
 	(3294, 200, 275, 7, 16, 126, 0, '+225 Armor', 'TANK/PHYS/HYBRID - ARMOR - MANY'),
 	(3361, 120, 195, 1, 16, 96, 0, '+6 BlockValue', 'TANK - ARMOR - SHIELD'),
-	(3757, 270, 345, 0, 0, 0, 0, '+102 Stamina', 'ALL - ALL - ALL'),
 	(3758, 277, 352, 8, 0, 0, 0, '+76 SpellPower', 'SPELL - ALL - ALL'),
 	(3827, 250, 325, 7, 0, 0, 0, '+110 AttackPower', 'TANK/PHYS/HYBRID - ALL - ALL'),
 	(3834, 277, 352, 8, 0, 0, 0, '+63 SpellPower', 'SPELL - ALL - ALL'),
